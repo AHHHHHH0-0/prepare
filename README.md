@@ -1,2 +1,2 @@
-# prepare
-Predictive Paper Recommender: a heterogeneous graph representation learning project to find research papers
+# PrePaRe: <ins>Pre</ins>dictive <ins>Pa</ins>per <ins>Re</ins>commender
+Over the past year, I took a liking to reading ML research papers. One day I had the idea of building a recommender for myself. This is that recommender. Inspired by Pinterest's OmniSage and PinFM, this recommender learns embeddings over a heterogeneous graph of papers, authors, and topics, enriched with user's reading history as a first-class entity type, all of which are used to recommend unread papers.
